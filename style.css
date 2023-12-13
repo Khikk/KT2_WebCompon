@@ -1,0 +1,37 @@
+form{
+    display: grid;
+    font-size: 24px;
+    grid-template-columns: auto;
+    padding: 12px;
+    height: 300px;
+}
+
+
+.btn{
+    font-size: 18px;
+    margin-top: 20px;
+    background-color: darkslategray;
+    color: white;
+    width: 200px;
+}
+
+
+.result{
+    border: solid 1px black;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+
+.monthlyPayment{
+    font-weight: 800;
+}
+
+.totalPayment{
+    font-weight: 800;
+}
+.sumPerc{
+    font-weight: 800;
+}
+
